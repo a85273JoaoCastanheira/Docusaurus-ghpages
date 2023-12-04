@@ -1,3 +1,3 @@
-### Quem somos
+# Quem somos
 
 Nós somos uma oficina 
