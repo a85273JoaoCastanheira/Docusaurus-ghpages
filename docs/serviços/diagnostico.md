@@ -1,5 +1,5 @@
 ---
-title : Serviços
+title : Diagnósticos
 ---
 
 ### Os nossos serviços! :car

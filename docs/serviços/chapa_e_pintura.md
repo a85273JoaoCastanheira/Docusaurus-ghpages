@@ -1,5 +1,5 @@
 ---
-title : Serviços
+title : Chapa e pintura
 ---
 
 ### Os nossos serviços! :car
