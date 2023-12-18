@@ -71,13 +71,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
+          {to: '/pages/quem-somos.md', label: 'Quem Somos', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Quem somos',
+            label: 'Serviços',
           },
-          //{to: '/pages/quem-somos.md', label: 'Quem Somos', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
