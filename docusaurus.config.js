@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Docusaurus-TP3',
-  tagline: 'Trabalho-Prático-3',
+  title: 'Docusaurus - TP3',
+  tagline: 'Trabalho Prático 3',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-ghpages/',
+  baseUrl: '/tp3-ghpages/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -77,6 +77,12 @@ const config = {
             position: 'left',
             label: 'Quem somos',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Contactos',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -92,7 +98,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Quem somos',
                 to: '/docs/intro',
               },
             ],
