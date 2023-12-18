@@ -1,3 +1,0 @@
-# Pneus
-
-## Alinhamento
