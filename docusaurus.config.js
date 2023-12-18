@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Quem somos',
+            label: 'Quem somo',
           },
           {to: '/Contactos', label: 'Contactos', position: 'left'},
           {
