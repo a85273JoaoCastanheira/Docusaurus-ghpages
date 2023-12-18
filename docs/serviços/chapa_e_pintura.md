@@ -2,7 +2,7 @@
 title : Chapa e pintura
 ---
 
-### Os nossos serviços! :car
+### Os nossos serviços! :car:
 
 ## Chapa e pintura
 

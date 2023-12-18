@@ -2,7 +2,7 @@
 title : Diagnósticos
 ---
 
-### Os nossos serviços! :car
+### Os nossos serviços! :car:
 
 ## Diagnóstico automóvel
 
