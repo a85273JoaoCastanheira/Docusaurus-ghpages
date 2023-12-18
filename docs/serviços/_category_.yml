@@ -1,0 +1,6 @@
+label: "Serviços"
+position: 1
+link:
+  type: "generated-index"
+  description: "Estes são os serviços que disponibilizamos aos nossos clientes!"
+  title: "Serviços"
