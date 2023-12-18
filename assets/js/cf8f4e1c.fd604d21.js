@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[466],{828:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/Trabalho-Pratico-ADC/blog/tags/docusaurus","allTagsPath":"/Trabalho-Pratico-ADC/blog/tags","count":4}')}}]);
