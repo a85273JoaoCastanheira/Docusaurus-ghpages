@@ -71,7 +71,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/quem-somos.md', label: 'Quem Somos', position: 'left'},
+          {to: '/pages', label: 'Quem Somos', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
@@ -97,7 +97,7 @@ const config = {
                 to: '/docs/intro',
               },
             ],
-          },
+          },  
           {
             title: 'Community',
             items: [
