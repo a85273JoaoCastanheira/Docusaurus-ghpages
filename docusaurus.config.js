@@ -71,7 +71,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {to: '/pages', label: 'Quem Somos', position: 'left'},
+         // {to: '/pages', label: 'Quem Somos', position: 'left'},
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
