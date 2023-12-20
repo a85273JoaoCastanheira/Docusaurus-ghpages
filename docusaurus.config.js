@@ -73,6 +73,11 @@ const config = {
         items: [
          //{to: '/pages', label: 'Quem Somos', position: 'left'},
           {
+          href: "/quem-somos", // The page path
+          label: "Quem Somos", // The link label
+          position: "left", // The link position
+          },
+          {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
