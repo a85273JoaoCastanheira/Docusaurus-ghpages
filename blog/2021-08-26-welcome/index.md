@@ -1,25 +1,20 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: Publicacao Blog
+title: Boas festas
+authors:
+  name: Andre Madaleno
+  title: Docusaurus Core Team
+  url: https://github.com/wgao19
+  image_url: https://github.com/wgao19.png
+tags: [hola, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Hora de agradecer! Natal é momento de reflexão e nós, da Oficina ADC, agradecemos a todos pela confiança depositada em nosso trabalho.
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Nossa missão é fazer a diferença na vida dos clientes, trazendo segurança e tranquilidade.
 
-Regular blog authors can be added to `authors.yml`.
+Há três décadas mantemos nossa qualidade pela experiência e excelência no tratamento ao cliente, buscando sempre o aprimoramento para oferecer o que há de melhor a cada um.
 
-The blog post date can be extracted from filenames, such as:
+Se há uma promessa que podemos fazer é que seguiremos à risca esse preceito no próximo ano nos esforçando, cada vez mais, para levar a você mais soluções, tecnologia e conforto para que seu veículo tenha o melhor rendimento possível.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+Tenha um Feliz Natal e um Ano Novo repleto de alegrias e felicidades! Ah, lembre-se de revisar o carro antes de pegar a estrada nas férias!
