@@ -95,6 +95,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: "/contactos", // The page path
+            label: "Contatos", // The link label
+            position: "left", // The link position
+            },
         ],
       },
       footer: {
