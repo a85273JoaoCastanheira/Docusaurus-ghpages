@@ -73,7 +73,7 @@ const config = {
         items: [
          //{to: '/pages', label: 'Quem Somos', position: 'left'},
           {
-          href: "/index", // The page path
+          href: "/sobre-nos", // The page path
           label: "Sobre Nós", // The link label
           position: "left", // The link position
           },
