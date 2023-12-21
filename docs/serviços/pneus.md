@@ -1,5 +1,7 @@
 ---
 title : Pneus
+
+sidebar_position: 2
 ---
 
 ### Os nossos serviços! :car:

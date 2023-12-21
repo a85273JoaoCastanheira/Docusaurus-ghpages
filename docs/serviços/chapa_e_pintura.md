@@ -1,5 +1,7 @@
 ---
 title : Chapa e pintura
+
+sidebar_position: 3
 ---
 
 ### Os nossos serviços! :car:
