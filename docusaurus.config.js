@@ -72,11 +72,11 @@ const config = {
         },
         items: [
          //{to: '/pages', label: 'Quem Somos', position: 'left'},
-          {
-          href: "/sobre-nos", // The page path
-          label: "Sobre Nós", // The link label
-          position: "left", // The link position
-          },
+          //{
+          //href: "/sobre-nos", // The page path
+          //label: "Sobre Nós", // The link label
+          //position: "left", // The link position
+          //},
           {
           href: "/quem-somos", // The page path
           label: "Quem Somos", // The link label
